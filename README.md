@@ -2,7 +2,7 @@
 
 # MedNova
 
-The Bioinformatics-Enhanced Pharmacy Management System is an advanced software application developed to support pharmacists in managing their pharmacies more efficiently and systematically. By integrating bioinformatics tools, this system aims to enhance various aspects of pharmacy operations, such as inventory management, drug information retrieval, and personalized medicine recommendations. 
+The Bioinformatics-Enhanced Pharmacy Management System is software application developed to support pharmacists in managing their pharmacies more efficiently and systematically. By integrating bioinformatics tools, this system aims to enhance various aspects of pharmacy operations, such as inventory management, drug information retrieval, and personalized medicine recommendations. 
 
 The core objective of this system is to simplify the complex task of pharmacy management by providing instant access to detailed medication information. When a medication name is entered, the system displays essential details like the price, expiry date, and potential drug interactions, which are cross-referenced against comprehensive bioinformatics databases. This data-driven approach enables pharmacists to offer personalized medicine recommendations tailored to individual patients' genetic profiles and medical histories, optimizing patient care and minimizing adverse drug reactions.
 
